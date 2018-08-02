@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "667123620129",
+    "firebase_url": "https://fir-inventory-app-b3434.firebaseio.com",
+    "project_id": "fir-inventory-app-b3434",
+    "storage_bucket": "fir-inventory-app-b3434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667123620129:android:3cc31be241728f88",
+        "android_client_info": {
+          "package_name": "com.example.a16033774.firebaseinventoryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667123620129-2er8rhp3uiflkpr43fn5lvf0tbtlro3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a16033774.firebaseinventoryapp",
+            "certificate_hash": "5b500edb8136b98f17e9c1e89cc65b3eb7abc7a5"
+          }
+        },
+        {
+          "client_id": "667123620129-ai06b7ckcaqio4vutblrsmik1ef1cuu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8eBnrsUB4iZrWFYe3oMgnGuV2AGdsqqM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667123620129-ai06b7ckcaqio4vutblrsmik1ef1cuu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
